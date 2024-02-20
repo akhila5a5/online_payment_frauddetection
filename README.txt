@@ -1,5 +1,5 @@
 # FraudDetection
-Machine Learning Project which predicts wheateher the online transaction is fraud or not.
+Machine Learning Project which predicts whether the online transaction is fraud or not.
 
 
 Introduction
